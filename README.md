@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ganaa 👋</h1>
+<h1 align="center">Hi, I'm Ganaa </h1>
 
 <p align="center">
   Creative Technologist • NYU CS & IMA • Systems & Sensors • C & C++ Enthusiast  
@@ -6,14 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 CS + Interactive Media Arts @ NYU  
-- 🤖 I build playful and practical systems from automated robots to full-stack web apps  
-- ⚙️ I work in C, JavaScript, Arduino, and sometimes make web things talk to hardware  
-- 🎮 I make games, simulations, and visual tools for fun and learning  
-- 🌐 Currently exploring creative coding, data privacy, and human-computer interaction
+### About Me
+- CS + Interactive Media Arts @ NYU  
+- I build playful and practical systems from automated robots to full-stack web apps  
+- I work in C, JavaScript, Arduino, and sometimes make web things talk to hardware  
+- I make games, simulations, and visual tools for fun and learning  
+- Currently exploring creative coding, data privacy, and human-computer interaction
 
-### 🧰 Languages & Tools
+### Languages & Tools
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![Assembly](https://img.shields.io/badge/-Assembly-000000?style=flat&logo=gnuassembly)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -24,6 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 
-### 📫 Reach Me
+### Reach Me
 -  Email: [gb2683@nyu.edu]
 -  Website: [https://ganaa.work/]
