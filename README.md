@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Ganaa </h1>
 
-<p align="center">
-  Creative Technologist • NYU CS & IMA 
-</p>
-
----
 
 ### About Me
 - CS + Interactive Media Arts @ NYU  
